@@ -1,2 +1,4 @@
 # Drosophila-Retina-review-spring-model
 Simple spring models to explore how junctional mechanics and externally applied forces may alter shape and mechanics of the retinal epithelium.
+This model coarse-grains the multicellular optical units of the Drosophila retinal epithelium (called ommatidia) as 2-dimensional lateral cross-sections. The resulting rectangular units are comprised of 4 springs with individual rest length, pre-stress, and stiffness (k) parameters. In some simulations, the "top" spring, is replaced with a rigid bar, to explore how altering the physical mechanics of this edge influence deformation responses.
+In general, this model is not to be thought of as a comprehensive or authoratative simulation of retinal ommatidia, rather, we view this model as a useful tool to generate testable hypotheses regarding the changes to physical mechanics of retinal cells and cellular junctions that may occur during retinal development.
